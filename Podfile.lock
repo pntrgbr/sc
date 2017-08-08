@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (4.5.0)
+  - Gloss (1.2.4)
+  - INSElectronicProgramGuideLayout (1.1.1)
+  - Moya/Core (8.0.5):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/RxSwift (8.0.5):
+    - Moya/Core
+    - RxSwift (~> 3.0)
+  - Result (3.2.3)
+  - RxCocoa (3.6.1):
+    - RxSwift (~> 3.6)
+  - RxDataSources (1.0.4):
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+  - RxSwift (3.6.1)
+  - Swinject (2.1.0)
+  - SwinjectStoryboard (1.1.1):
+    - Swinject (~> 2.0)
+  - UIColor+MLPFlatColors (1.0)
+
+DEPENDENCIES:
+  - Gloss
+  - INSElectronicProgramGuideLayout
+  - Moya/RxSwift
+  - RxCocoa
+  - RxDataSources
+  - RxSwift
+  - SwinjectStoryboard
+  - UIColor+MLPFlatColors
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  Gloss: 4e036074610fdb993abcb958ebcd7332588e2333
+  INSElectronicProgramGuideLayout: 8ff2a4bb10c7e93733c853b5880da82db4ca11aa
+  Moya: c37eec09a098ba9991b5a963b291fc5704bdb9ef
+  Result: 128640a6347e8d2ae48b142556739a2d13f90ce6
+  RxCocoa: 84a08739ab186248c7f31ce4ee92d6f8a947d690
+  RxDataSources: b3389acc5fe2eefb8fcd81a2b76a876ad08bc82a
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+  Swinject: 85e468ac75c5c2d234076f98c591d57d56bc64bc
+  SwinjectStoryboard: 4c71c25f312322844d39ee06f0f523db7b9b10a3
+  UIColor+MLPFlatColors: 14deb8f28da06ab8918c14231d4ff49ca7cd384a
+
+PODFILE CHECKSUM: f6a8b251a65633b9dc10b687aaaa6034275cfe31
+
+COCOAPODS: 1.2.1
